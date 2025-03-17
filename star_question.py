@@ -59,4 +59,3 @@ for i in range(size):
     print(' ' * spaces + '*' * stars)
 
 
-
